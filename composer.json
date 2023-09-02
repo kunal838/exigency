@@ -1,0 +1,16 @@
+{
+    "name": "rog/kunal",
+    "require": {
+        "twilio/sdk": "^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rog\\Kunal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KUNAL"
+        }
+    ]
+}
